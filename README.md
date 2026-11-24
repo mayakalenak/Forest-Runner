@@ -35,9 +35,10 @@ A fast-paced, 3D forest-themed endless runner built in Unity. Play as a nimble f
 * `UserSettings/` – Local Unity Editor preferences and layout settings.
 
 ## 🔮 Future Improvements
-* [ ] Power-ups (e.g., gem magnet, score multiplier, temporary shield, or slow-motion speed)
-* [ ] Power-downs (e.g. gems to avoid that increase speed temporarily, decrease score once, or respawn)
-* [ ] Added game feel (gem collection animation, lose slow-motion then screen fade)
-* [ ] High-score leaderboard
-* [ ] Levels
-* [ ] 3D forest background
+* Power-ups (e.g., gem magnet, score multiplier, temporary shield, or slow-motion speed)
+* Power-downs (e.g. gems to avoid that increase speed temporarily, decrease score once, or respawn)
+* Added game feel (gem collection animation, lose slow-motion then screen fade)
+* High-score leaderboard
+* Levels
+* More interactive menu buttons
+* 3D forest background
